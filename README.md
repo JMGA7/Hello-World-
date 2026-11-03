@@ -1,4 +1,7 @@
 # include <stdio.h>
 # include <cs50.h>
-int main <void>    
-print f(Hello, World!)
+int main <void>
+{
+printf("Hello, World!\n");
+return 0
+}
